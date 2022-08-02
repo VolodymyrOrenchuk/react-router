@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-router/static/css/main.dc143eae.css",
+    "main.js": "/react-router/static/js/main.020cde67.js",
+    "static/media/pic1.jpg": "/react-router/static/media/pic1.7610920f94788d2ae0c7.jpg",
+    "static/media/m.png": "/react-router/static/media/m.568f3431f477fb88e968.png",
+    "static/media/a.png": "/react-router/static/media/a.25986184c2d7f78daeae.png",
+    "static/media/w.png": "/react-router/static/media/w.798c6c4413e651f58dc3.png",
+    "index.html": "/react-router/index.html",
+    "main.dc143eae.css.map": "/react-router/static/css/main.dc143eae.css.map",
+    "main.020cde67.js.map": "/react-router/static/js/main.020cde67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc143eae.css",
+    "static/js/main.020cde67.js"
+  ]
+}
